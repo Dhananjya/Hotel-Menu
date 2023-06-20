@@ -221,3 +221,14 @@
     color:cadetblue;
   
   }
+
+  .price{
+    
+     color: green;
+     text-align: center;
+     display: flex;
+     border-top-left-radius: 1rem;
+   
+     
+
+  }
